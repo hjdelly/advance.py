@@ -1,0 +1,7 @@
+So I wanna be able to read this content in using Python and then 
+I also wanna perform a task. I want to be able to count how many words are 
+inside of this file. So that can be something that is very helpful whenever 
+you're working with text content is being able to run analytics on it to see 
+how many words or how many elements are inside of the file. So that's gonna be 
+something you'll probably need to do quite a bit, so we're gonna walk through 
+how we can do that here.
